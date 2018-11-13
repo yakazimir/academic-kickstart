@@ -275,6 +275,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://www.kaggle.com/yakazimir"
 
+   [[params.social]]
+    icon = "ai2"
+    icon_pack = "fab"
+    link = "https://allenai.org"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
