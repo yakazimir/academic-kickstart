@@ -31,7 +31,6 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-
 Kyle Richardson (2018) **A Language for Function Signature Representations**. *Brief technical note*. [[arxiv]](https://arxiv.org/abs/1804.00987)[[resources]](https://github.com/yakazimir/Code-Datasets)
 
 Kyle Richardson, Jonathan Berant and Jonas Kuhn (2018). **Polyglot Semantic Parsing in APIs.**  *Proceedings of NAACL* [[arxiv]](https://arxiv.org/abs/1803.06966)[[data]](https://github.com/yakazimir/Code-Datasets/tree/master/polyglot_data)[[notes]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/polyglot_supp.pdf)[[code]](https://github.com/yakazimir/zubr_public/tree/master/experiments)[[slides]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/naacl_slides.pdf)[[video]](https://vimeo.com/276898099)
@@ -45,7 +44,6 @@ Kyle Richardson, Jonas Kuhn (2017). **Learning Semantic Correspondences in Techn
 Kyle Richardson, Jonas Kuhn. (2016) **Learning to Make Inferences in a Semantic Parsing Task.** *Transactions of the Association of Computational Linguistics* [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/733)[[data]](https://github.com/yakazimir/zubr_public/tree/master/datasets)[[acl_slides]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/papers/acl2016.pdf)[[video]](http://techtalks.tv/talks/learning-to-make-inferences-in-a-semantic-parsing-task-tacl/63153/).
 
 Cleo Condoravdi, Kyle Richardson, Vishal Sikka, Asuman Suenbuel, and Richard Waldinger (2015) **Natural Language Access to Data: It Takes Common Sense!.** *in Twelfth International Symposium on Logical Formalizations of Commonsense Reasoning (Commonsense-15). AAAI Spring Symposium*. [[demo]](https://www.youtube.com/watch?v=hGGMZAdsm6k)[[link]](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/view/10325/10071).
-
 
 Cleo Condoravdi, Kyle Richardson, Vishal Sikka, Asuman Suenbuel, and Richard Waldinger (2014) **Deduction for Natural Language Access to Data.** *in University of Coimbra CS Technical Reports, CISUC/TR 2014-02. Presented at Joint Workshop on Natural Language and Computer Science (NLCS) and Natural Language Services for Reasoners (NLSR)*. Vienna, Austria.  
 
