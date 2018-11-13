@@ -32,4 +32,4 @@ weight = 5
 
 # Biography
 
-This is the homepage of Kyle Richardson, a researcher in Artificial Intelligence and Natural Language Processing. 
+I am a researcher in Artificial Intelligence and Natural Language Processing at the Allen Institute for Artificial Intelligence in Seattle, Washington. Prior to this, I was a researcher at the Institute for Natural Language Processing at the University of Stuttgart in Germany, where I received my PhD in October 2018. On this website you can find more about my work.  
