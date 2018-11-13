@@ -300,6 +300,11 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
+[[menu.main]]
+  name = "Teaching"
+  url="#teaching"
+  weight=2
+
 # [[menu.main]]
 #   name = "Teaching/Notes"
 #   url = "#teaching"
