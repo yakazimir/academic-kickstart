@@ -41,3 +41,16 @@ Kyle Richardson, Sina Zarrieß and Jonas Kuhn (2017). **The Code2Text Challenge:
 Kyle Richardson, Jonas Kuhn (2017). **Function Assistant: A Tool for NL Querying of APIs.** (2017) *Proceedings of EMNLP* [[arxiv]](https://arxiv.org/abs/1706.00468)[[paper]](http://aclweb.org/anthology/D/D17/D17-2012.pdf)[[demo]](http://zubr.ims.uni-stuttgart.de/#about)[[resources]](https://github.com/yakazimir/Code-Datasets/tree/master/other_data/py27)[[code]](https://github.com/yakazimir/zubr_public)[[poster]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/papers/emnlp_poster17.pdf)
 
 Kyle Richardson, Jonas Kuhn (2017). **Learning Semantic Correspondences in Technical Documentation.** *Proceedings of ACL 2017* [[arvix]](https://arxiv.org/abs/1705.04815)[[paper]](http://aclweb.org/anthology/P/P17/P17-1148.pdf)[[notes]](http://aclweb.org/anthology/attachments/P/P17/P17-1148.Notes.pdf)[[data]](https://github.com/yakazimir/Code-Datasets)[[acl_poster]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/poster.pdf)[[stuttgart slides]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/website_version.pdf)[[code]](https://github.com/yakazimir/zubr_public). 
+
+Kyle Richardson, Jonas Kuhn. (2016) **Learning to Make Inferences in a Semantic Parsing Task.** *Transactions of the Association of Computational Linguistics* [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/733)[[data]](https://github.com/yakazimir/zubr_public/tree/master/datasets)[[acl_slides]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/papers/acl2016.pdf)[[video]](http://techtalks.tv/talks/learning-to-make-inferences-in-a-semantic-parsing-task-tacl/63153/).
+
+Cleo Condoravdi, Kyle Richardson, Vishal Sikka, Asuman Suenbuel, and Richard Waldinger (2015) **Natural Language Access to Data: It Takes Common Sense!.** *in Twelfth International Symposium on Logical Formalizations of Commonsense Reasoning (Commonsense-15). AAAI Spring Symposium*. [[demo]](https://www.youtube.com/watch?v=hGGMZAdsm6k)[[link]](http://www.aaai.org/ocs/index.php/SSS/SSS15/paper/view/10325/10071).
+
+
+Cleo Condoravdi, Kyle Richardson, Vishal Sikka, Asuman Suenbuel, and Richard Waldinger (2014) **Deduction for Natural Language Access to Data.** *in University of Coimbra CS Technical Reports, CISUC/TR 2014-02. Presented at Joint Workshop on Natural Language and Computer Science (NLCS) and Natural Language Services for Reasoners (NLSR)*. Vienna, Austria.  
+
+Kyle Richardson and Jonas Kuhn (2014) **UnixMan Corpus: A Resource for Language Learning in the Unix Domain.** *in Proceedings of LREC*. [[link]](http://www.lrec-conf.org/proceedings/lrec2014/pdf/823_Paper.pdf) [[data]](https://github.com/yakazimir/Code-Datasets/tree/master/data/unixman)
+
+Sina Zarriess and Kyle Richardson. (2013) **An Automatic Method for Building a Data-to-Text Generator**.  *in Proceedings of 14th European Workshop on Natural Language Generation* [[link]](http://www.um.edu.mt/events/enlg2013/workshop-program.html)
+
+Richard Waldinger, Danny Bobrow, Cleo Condoravdi, Amar Das, Kyle Richardson. (2011) **Accessing Structured Health Information through English Queries and Automatic Deduction.** *in Proceedings of AAAI Spring Symposium on Health Communications*.
