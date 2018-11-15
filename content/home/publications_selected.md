@@ -31,11 +31,11 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-Kyle Richardson (2018) **New Resources and Ideas for Semantic Parser Induction**. *PhD Thesis, Institute for Natural Language Processing (IMS),  Faculty of Computer Science, Electrical Engineering and Information Technology. University of Stuttgart, Germany* \[[opus](https://elib.uni-stuttgart.de/handle/11682/10107)]
+Kyle Richardson (2018) **New Resources and Ideas for Semantic Parser Induction**. *PhD Thesis, Institute for Natural Language Processing (IMS),  Faculty of Computer Science, Electrical Engineering and Information Technology*. University of Stuttgart, Germany \[[opus](https://elib.uni-stuttgart.de/handle/11682/10107)]\[[resources](https://github.com/yakazimir/zubr_public)]
 
 Kyle Richardson (2018) **A Language for Function Signature Representations**. *Brief technical note*. \[[arxiv](https://arxiv.org/abs/1804.00987)]\[[resources](https://github.com/yakazimir/Code-Datasets)]
 
-Kyle Richardson, Jonathan Berant and Jonas Kuhn (2018). **Polyglot Semantic Parsing in APIs.**  *Proceedings of NAACL* \[[arxiv](https://arxiv.org/abs/1803.06966)]\[[data](https://github.com/yakazimir/Code-Datasets/tree/master/polyglot*data)]\[[notes](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/polyglot*supp.pdf)]\[[code](https://github.com/yakazimir/zubr_public/tree/master/experiments)]\[[slides](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/naacl_slides.pdf)]\[[video](https://vimeo.com/276898099)]
+Kyle Richardson, Jonathan Berant and Jonas Kuhn (2018). **Polyglot Semantic Parsing in APIs.**  *Proceedings of NAACL* \[[arxiv](https://arxiv.org/abs/1803.06966)]\[[data](https://github.com/yakazimir/Code-Datasets/tree/master/polyglot*data)]\[[notes](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/polyglot*supp.pdf)]\[[code](https://github.com/yakazimir/zubr_public/tree/master/experiments)]\[[slides](files/entailment_extended.pdf)]\[[video](https://vimeo.com/276898099)]
 
 Kyle Richardson, Sina Zarrieß and Jonas Kuhn (2017). **The Code2Text Challenge: Text Generation in Source Code Libraries** (2017) *Proceedings of INLG 2017* \[[arxiv](https://arxiv.org/abs/1708.00098)]\[[paper](http://www.aclweb.org/anthology/W17-35#page=137)]\[[inlg_slides](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/papers/final.pdf)]\[[resources](https://github.com/yakazimir/Code-Datasets)].
 
