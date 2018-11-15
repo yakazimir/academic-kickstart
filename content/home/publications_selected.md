@@ -31,7 +31,7 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-Kyle Richardson (2018) **A Language for Function Signature Representations**. *Brief technical note*. [[arxiv]](https://arxiv.org/abs/1804.00987)[[resources]](https://github.com/yakazimir/Code-Datasets)
+Kyle Richardson (2018) **A Language for Function Signature Representations**. *Brief technical note*. \[[arxiv](https://arxiv.org/abs/1804.00987)[[resources]](https://github.com/yakazimir/Code-Datasets)]
 
 Kyle Richardson, Jonathan Berant and Jonas Kuhn (2018). **Polyglot Semantic Parsing in APIs.**  *Proceedings of NAACL* [[arxiv]](https://arxiv.org/abs/1803.06966)[[data]](https://github.com/yakazimir/Code-Datasets/tree/master/polyglot*data)[[notes]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/polyglot*supp.pdf)[[code]](https://github.com/yakazimir/zubr_public/tree/master/experiments)[[slides]](http://www.ims.uni-stuttgart.de/institut/mitarbeiter/kyle/naacl_slides.pdf)[[video]](https://vimeo.com/276898099)
 
