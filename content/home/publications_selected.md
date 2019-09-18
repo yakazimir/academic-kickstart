@@ -31,8 +31,6 @@ list_format = 1
 #  6: Book chapter
 publication_type = "-1"
 +++
-testing 1 2  
-
 Kyle Richardson (2018) **New Resources and Ideas for Semantic Parser Induction**. *PhD Thesis, Institute for Natural Language Processing (IMS),  Faculty of Computer Science, Electrical Engineering and Information Technology*. University of Stuttgart, Germany \[[opus](https://elib.uni-stuttgart.de/handle/11682/10107)]\[[slides](files/richardson_talk.pdf)]\[[resources](https://github.com/yakazimir/zubr_public)]\[[handout](files/print_handout.pdf)]
 
 Kyle Richardson (2018) **A Language for Function Signature Representations**. *Brief technical note*. \[[arxiv](https://arxiv.org/abs/1804.00987)]\[[resources](https://github.com/yakazimir/Code-Datasets)]
